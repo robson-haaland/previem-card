@@ -86,6 +86,8 @@ h5{
     }
 
     .container{
-    box-shadow: 10px 10px; 
+    width: 375px;
+    height: 512x;
+    box-shadow: 15px 15px; 
     }
 }
